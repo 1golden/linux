@@ -1,0 +1,2 @@
+# linux
+some fundemental knowledge
